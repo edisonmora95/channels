@@ -1,0 +1,1 @@
+Module containing channels functionality
